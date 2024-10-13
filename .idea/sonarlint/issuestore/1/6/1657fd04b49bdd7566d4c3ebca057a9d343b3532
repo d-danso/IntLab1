@@ -1,16 +1,0 @@
-
-}
-java:S1141	"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8û¥¼2J$144fa428-d5d3-44c5-a0c5-c43b114b8330
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†ëï«úÿÿÿÿJ$2fc73ea5-b05e-4ca5-8fa3-9b01407a63b2
-†
-java:S3518
-"CMake sure this expression can't be zero before doing this division.(ƒ¼8©¦¼2J$14971338-f87a-454a-90e9-29c5183d6a84
-}
-java:S1854
-":Remove this useless assignment to local variable "result".(ƒ¼8®¦¼2J$19e71c6a-2cd6-469d-94c6-ee7ca4106e6d
-n
-java:S1481
-"+Remove this unused "result" local variable.(ƒ¼8³¦¼2J$a5c023a1-4dff-4b36-a3ce-a78a161aeb85
-r	java:S106"+Replace this use of System.out by a logger.(×‡©ııÿÿÿÿ8µ¦¼2J$988be2c0-0370-42c4-934f-0ec282898b94
-r	java:S106"+Replace this use of System.out by a logger.(‡”æ‹ÿÿÿÿÿ8¶¦¼2J$65bf1e52-e84f-4965-9b2a-a51504d6c559
-r	java:S106"+Replace this use of System.out by a logger.(ÚÁİ›şÿÿÿÿ8·¦¼2J$c845c6d7-d689-4cfe-a7ca-5eb5c9cd9c15
